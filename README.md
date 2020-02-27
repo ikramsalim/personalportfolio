@@ -1,4 +1,4 @@
-# Project Title
+# Personal Portfolio
 
 This is my personal portfolio using django of the projects I have worked on. 
 
