@@ -4,7 +4,7 @@ This is my personal portfolio using django of the projects I have worked on.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
 
@@ -29,9 +29,6 @@ python3 manage.py runserver
 Use pip3
 
 
-
-
-
 ## Deployment
 
 python3 manage.py runserver
@@ -52,12 +49,9 @@ Used latest version of Python which is python 3.8 and latest version of Jquery.
 
 * **Ikram Salim** - 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-
 
 ## Acknowledgments
 
-* Thank you to Nick Walters and StackOverflow 
+* Thanks to StackOverflow 
 
 
