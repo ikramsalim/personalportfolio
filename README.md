@@ -1,4 +1,4 @@
-# Personal Portfolio
+# PersonalPortfolio using Django
 
 This is my personal portfolio using django of the projects I have worked on. 
 
@@ -12,8 +12,10 @@ What things you need to install the software and how to install them
 
 ```
 Must know HTML,CSS, and some programming
+
 Python 3.5 and above 
 Atom or any text editor
+Postgresql -database
 
 
 ```
