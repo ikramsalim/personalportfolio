@@ -35,9 +35,9 @@ python3 manage.py runserver
 
 ## Built With
 
-* [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/) - The web framework used
-* [Popper](https://popper.js.org/) - explain
-* [JQUERY](https://jquery.com/) - ..... explain
+* [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/) - CSS framework used
+* [Popper](https://popper.js.org/) - Popper. js is a positioning engine, its purpose is to calculate the position of an element to make it possible to position it near a given reference element.
+* [JQUERY](https://jquery.com/) - is a fast, small, and feature-rich JavaScript library.
 
 ## Contributing
 
