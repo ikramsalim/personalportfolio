@@ -1,6 +1,11 @@
 # PersonalPortfolio using Django
 
-This is my personal portfolio using django of the projects I have worked on. 
+This is my personal portfolio using django of the projects I have worked nd it's your own personal portfolio.it's got my name, a little bit about me, a cool button that when you click on it it actually initiates sending an E-mail to me. I have got a picture of myself here, and then down below I've listed out some previous projects that I've worked on before. And what's really cool about each of these, is they kinda give you a nice little snapshot of what I've done, but if you click on any one of these, you can see the picture blown up in more detail. 
+
+
+
+A big part of this course is gonna be working with the database which powers these different jobs and projects that we've worked on before. And so if we go to the name of our website, /admin, we're actually gonna have this whole interface to add new jobs here.
+I can quickly make an update here on the admin page, and now when I go back to the homepage, you can see that that change has been reflected live right here.
 
 ## Getting Started
 
