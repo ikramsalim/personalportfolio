@@ -1,11 +1,13 @@
 # PersonalPortfolio using Django
 
-This is my personal portfolio using django of the projects I have worked nd it's your own personal portfolio.it's got my name, a little bit about me, a cool button that when you click on it it actually initiates sending an E-mail to me. I have got a picture of myself here, and then down below I've listed out some previous projects that I've worked on before. And what's really cool about each of these, is they kinda give you a nice little snapshot of what I've done, but if you click on any one of these, you can see the picture blown up in more detail. 
+This is my personal portfolio of the projects I have worked on using Django. It's got my name, a little bit about me, a cool button that when you click on it it actually initiates sending an E-mail to me. I have got a picture of myself here, and then down below I've listed out some previous projects that I've worked on before. And what's really cool about each of these, is they kinda give you a nice little snapshot of what I've done, but if you click on any one of these, you can see the picture blown up in more detail. 
 
 
 
-A big part of this course is gonna be working with the database which powers these different jobs and projects that we've worked on before. And so if we go to the name of our website, /admin, we're actually gonna have this whole interface to add new jobs here.
-I can quickly make an update here on the admin page, and now when I go back to the homepage, you can see that that change has been reflected live right here.
+
+A big part of this project is gonna be working with the database(Postgresql database) which powers these different jobs and projects that I have worked on before. And so if we go to the name of our website, /admin, I am actually gonna have this whole interface to add new jobs here.
+
+You can quickly make an update on the admin page, and when you go back to the homepage, you can see that that change has been reflected live right here.
 
 ## Getting Started
 
@@ -30,10 +32,18 @@ Postgresql -database
 A step by step series of examples that tell you how to get a development env running
 
 Download the project, open in terminal and run the command 
+
 ```
 python3 manage.py runserver
 ```
 Use pip3
+
+
+
+To confirm if you have installed Django, type out django-admin in your terminal 
+```
+django-admin 
+```
 
 
 ## Deployment
@@ -59,6 +69,6 @@ Used latest version of Python which is python 3.8 and latest version of Jquery.
 
 ## Acknowledgments
 
-* Thanks to StackOverflow 
+* Thanks to StackOverflow, LinkedIn Learning and Google 
 
 
