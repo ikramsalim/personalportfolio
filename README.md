@@ -5,9 +5,8 @@ This is my personal portfolio of the projects I have worked on using Django. It'
 
 
 
-A big part of this project is gonna be working with the database(Postgresql database) which powers these different jobs and projects that I have worked on before. And so if we go to the name of our website, /admin, I am actually gonna have this whole interface to add new jobs here.
+A big part of this project is gonna be working with the database(Postgresql database) which powers these different jobs and projects that I have worked on before. 
 
-You can quickly make an update on the admin page, and when you go back to the homepage, you can see that that change has been reflected live right here.
 
 ## Getting Started
 
